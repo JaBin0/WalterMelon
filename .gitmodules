@@ -1,0 +1,4 @@
+[submodule "SopelGE"]
+	path = SopelGE
+	url = git@github.com:JaBin0/SopelGE.git
+	branch = WalterMelon
